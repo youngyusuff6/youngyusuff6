@@ -22,7 +22,7 @@ I'm AbdulHameed, a Laravel developer from Lagos, Nigeria.
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [Portfolio](https://netlify.youngyusuff6.app)
+Check out my portfolio: [Portfolio](https://youngyusuff6.netlify.app)
 
 ## 📫 Let's connect
 
