@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [AbdulHameed], a Full Stack Developer from [Lagos, Nigeria].
+I'm AbdulHameed, a Full Stack Developer from Lagos, Nigeria.
 
 ## 🔧 Technologies & Tools
 
