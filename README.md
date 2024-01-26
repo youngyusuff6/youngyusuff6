@@ -22,7 +22,7 @@ I'm AbdulHameed, a Full Stack Developer from Lagos, Nigeria.
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [netlify.youngyusuff6.app](https://netlify.youngyusuff6.app)
+Check out my portfolio: [Portfolio](https://netlify.youngyusuff6.app)
 
 ## 📫 Let's connect
 
